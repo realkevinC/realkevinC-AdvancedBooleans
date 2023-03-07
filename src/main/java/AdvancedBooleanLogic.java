@@ -36,5 +36,5 @@ public class AdvancedBooleanLogic {
      */
     public boolean returnNeitherNor(boolean b1, boolean b2){
         return !b1 && !b2;
-    }
+    }   
 }
